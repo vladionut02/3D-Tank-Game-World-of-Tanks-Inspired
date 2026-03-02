@@ -43,10 +43,10 @@ The camera:
 - Rotates around the tank when right-click is pressed
 
 ### Tank Controls (WASD)
-- **W** – Move forward
-- **S** – Move backward
-- **A** – Rotate left
-- **D** – Rotate right
+- **W** - Move forward
+- **S** - Move backward
+- **A** - Rotate left
+- **D** - Rotate right
 
 Movement is relative to the tank's orientation (classic “tank controls”).
 
